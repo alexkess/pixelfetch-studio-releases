@@ -5,5 +5,14 @@
     <link>https://raw.githubusercontent.com/alexkess/pixelfetch-studio-releases/main/appcast.xml</link>
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
+    <item>
+      <title>Version 2.7.0</title>
+      <pubDate>Tue, 25 Aug 2026 13:50:35 +0000</pubDate>
+      <sparkle:version>283</sparkle:version>
+      <sparkle:shortVersionString>2.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Auto-updates arrive: the app now updates itself. Also in 2.7.0: Copy Keepers and drag-to-sidebar (the post-cull handoff), typed + voice reasoning notes with visible buttons, the three-tier Judge (The Eye, Brief Interpreter, Roast Slider), revision-aware visual clustering, correct date buckets in Sort into Folders, bundled exiftool, and the new app icon.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v2.7.0/PixelfetchStudio-2.7.0.zip" sparkle:edSignature="hBZCYNPPCI/zJEXgpk0r8nbo4FwKfKjISvvQ9YfgEF9ALSx1Af2qtwpY8rYM8D6U2dEyuycXJ3zQT8ZB7cxdDg==" length="9283172" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

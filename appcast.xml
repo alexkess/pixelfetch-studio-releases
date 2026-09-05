@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.7.1</title>
+      <pubDate>Sat, 05 Sep 2026 03:10:54 +0000</pubDate>
+      <sparkle:version>284</sparkle:version>
+      <sparkle:shortVersionString>2.7.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Caption Selects: caption just your selects from the workspace toolbar — priced up front, one click. Export fixes: JPG exports now keep your EXIF, GPS, and capture times; the export sheet remembers your last mode and the button says exactly what it will do (no more silent re-encodes when you wanted copies).]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v2.7.1/PixelfetchStudio-2.7.1.zip" sparkle:edSignature="FV/y0YOm/IIcdcVTiPd4iw9Mme97CbaS76dVBmLkDvMNNHh029b9aXBHZj/canakLA9LLqlX3Ee12M1EhR+SDw==" length="9325150" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.7.0</title>
       <pubDate>Tue, 25 Aug 2026 13:50:35 +0000</pubDate>
       <sparkle:version>283</sparkle:version>

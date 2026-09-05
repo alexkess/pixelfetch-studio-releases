@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.7.2</title>
+      <pubDate>Sat, 05 Sep 2026 03:43:38 +0000</pubDate>
+      <sparkle:version>285</sparkle:version>
+      <sparkle:shortVersionString>2.7.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Critical fix: builds now launch correctly on Macs other than the development machine (shipped resource bundle). Also carries the correct display font and brand imagery on every machine.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v2.7.2/PixelfetchStudio-2.7.2.zip" sparkle:edSignature="PpC9a8mB9w+EfgReAGC5ZyYx5kmDVqdbWGjrbOC9V477AL0cGQogLMStcqSqdsq2oAGQPSVVQGl83daO21DrDQ==" length="9416303" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.7.1</title>
       <pubDate>Sat, 05 Sep 2026 03:10:54 +0000</pubDate>
       <sparkle:version>284</sparkle:version>

@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.8.0</title>
+      <pubDate>Mon, 07 Sep 2026 08:06:32 +0000</pubDate>
+      <sparkle:version>307</sparkle:version>
+      <sparkle:shortVersionString>2.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[2.8.0 — the Shoot Read: after processing, Studio describes a sample of frames and proposes what the shoot is plus two or three angles (Use / Edit / Skip — your words always win). Also new: the Next rail in Browse, and the Selects engine folded in under the hood.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v2.8.0/PixelfetchStudio-2.8.0.zip" sparkle:edSignature="I+grhW4hLFpoDS4ZFZRxeIx0NBKJgC+Sc9rAXWZC2oSG4rXiou1S3tOPp+HOzEv1XdRrpkpaueVp2m2uL+rSDQ==" length="9973370" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.7.2</title>
       <pubDate>Sat, 05 Sep 2026 03:43:38 +0000</pubDate>
       <sparkle:version>285</sparkle:version>

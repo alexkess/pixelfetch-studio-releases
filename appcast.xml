@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.9.0</title>
+      <pubDate>Mon, 07 Sep 2026 23:06:43 +0000</pubDate>
+      <sparkle:version>336</sparkle:version>
+      <sparkle:shortVersionString>2.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[2.9.0 — Browse · Select · Judge · Edit: the tabs are now the stages of your shoot. Selecting moves to its own tab, Results lives inside Judge, and Edit is ready for the Cut. Processed folders open in Browse as files with an Open in Select button; on a second display the Viewer now follows the raw browse selection while you're in Judge.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v2.9.0/PixelfetchStudio-2.9.0.zip" sparkle:edSignature="+krnX3BVXbzIqUZ57kpzNQqTL9dF8dwp2D/S7JZMGZFfEAASPYsKjsYg11A1c877n3/GvqwDZZzuLXL/rrSfAw==" length="10034528" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.8.0</title>
       <pubDate>Mon, 07 Sep 2026 08:06:32 +0000</pubDate>
       <sparkle:version>307</sparkle:version>

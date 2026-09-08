@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 2.10.0</title>
+      <pubDate>Tue, 08 Sep 2026 13:37:32 +0000</pubDate>
+      <sparkle:version>367</sparkle:version>
+      <sparkle:shortVersionString>2.10.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[2.10.0 — The Cut: build a timeline from your clips on the Edit tab. Analyse the footage, pick a treatment, cut, export FCPXML. Any AI route, local models included; the shoot's photo selects can join the cut.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v2.10.0/PixelfetchStudio-2.10.0.zip" sparkle:edSignature="Kbxv00ogtP2V9ZQ3t3J1rV6jddDpHHXTo3YMRb9EeIZO9pfXmtcSzvzUl+pKF9tG6qgz0LBzzKZ279KZpzB7Dg==" length="10338806" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.9.0</title>
       <pubDate>Mon, 07 Sep 2026 23:06:43 +0000</pubDate>
       <sparkle:version>336</sparkle:version>

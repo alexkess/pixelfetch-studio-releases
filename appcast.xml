@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.1.0</title>
+      <pubDate>Mon, 14 Sep 2026 23:18:54 +0000</pubDate>
+      <sparkle:version>490</sparkle:version>
+      <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[3.1.0 — one grid, and nothing runs until you press its button. Browse is now the only grid: the Select tab folded into it, and picks, stars and labels live in your files (a shoot culled before 3.0 has its cull written into its files the first time you open it). Each folder opens in Manual Cull or AI Cull, your choice per folder; opening a folder or switching never starts work. Analysis starts from Analyse… (all or selected photos), and Caption, Read the shoot and Judge each run from the new AI menu on the photos you pick. Judge now needs a brief. Shoot details can be typed before a folder is analysed. The AI Cull agreement view compares your keeps with what the AI would pick. With Group bursts on, bursts show as Bands or Stacks (Space opens a stack). Sync Metadata no longer writes AI star ratings unless you tick the box.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.1.0/PixelfetchStudio-3.1.0.zip" sparkle:edSignature="WTvkqd2OktjsUCjA1s0qOQ1S1E6TVnJLjaKU/n26/QklqYh/59aLCT/b0aJZTVDeCFamfCK1hUa9Qe4jAXvkCA==" length="10537764" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 2.10.0</title>
       <pubDate>Tue, 08 Sep 2026 13:37:32 +0000</pubDate>
       <sparkle:version>367</sparkle:version>

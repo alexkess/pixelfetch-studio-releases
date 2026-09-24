@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.2.0</title>
+      <pubDate>Thu, 24 Sep 2026 05:07:31 +0000</pubDate>
+      <sparkle:version>737</sparkle:version>
+      <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[3.2.0: the shoot checklist (card + six steps after Analyse), Analyse starts at once and switches to AI Cull, the client's target count, guided Shoot Read on Apple on-device, honest Caption counts, Cut exports at each clip's start timecode, Start again, and export the cut, your marks or both.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.2.0/PixelfetchStudio-3.2.0.zip" sparkle:edSignature="xnsUoR9kS/ljk9MXzR9EkoLSSR8QeIMV4NfpXeFG4suKh52ujUKr5OREn+3HO2blmZo6cuuNHsTzJg/vaAEgAQ==" length="12228928" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.1.0</title>
       <pubDate>Mon, 14 Sep 2026 23:18:54 +0000</pubDate>
       <sparkle:version>490</sparkle:version>

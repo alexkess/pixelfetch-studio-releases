@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.3.0</title>
+      <pubDate>Sat, 26 Sep 2026 04:24:03 +0000</pubDate>
+      <sparkle:version>809</sparkle:version>
+      <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Organise tab (Renamer with drag-and-drop pills, Sort into Folders with a folder builder, Order by); Cull shows subfolders as one shoot; activity indicator shows every running task; zoom to 100%; Export sizes and renaming; RAW/DNG delivery choice on Copy Keepers; Read the shoot asks about the shoot first.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.3.0/PixelfetchStudio-3.3.0.zip" sparkle:edSignature="LEd7nAor6qa8Wxq+MhP8qjxbhxi64VE/r5gLO0ZZVwxuGOTvE7P7TEweychUhrzsaay1Xb0Ccd64nSA2qANqAQ==" length="13297392" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.2.0</title>
       <pubDate>Thu, 24 Sep 2026 05:07:31 +0000</pubDate>
       <sparkle:version>737</sparkle:version>

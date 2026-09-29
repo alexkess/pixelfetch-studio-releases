@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.4.0</title>
+      <pubDate>Tue, 29 Sep 2026 11:05:10 +0000</pubDate>
+      <sparkle:version>850</sparkle:version>
+      <sparkle:shortVersionString>3.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Panels you can arrange in every tab, and the Viewer as a full second loupe on your second screen. A Deliver menu in the toolbar, and a What's in this shoot block (cameras, lenses, dates, places). Reconnect folders you moved in Finder. Group bursts by Time, then look, plus Thin look-alike picks. Read the shoot now asks what the shoot is for first. RAW+JPG pairs count as one photo, and the exiftool hang is fixed.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.4.0/PixelfetchStudio-3.4.0.zip" sparkle:edSignature="mCJPpVpy/Bqorjx0odH3sJtJJchQMAbFKErBT529J0YB26dldn0xqcs0miG6P9E33RdSzk/JHyI4Gp55XXEYDw==" length="13960504" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.3.0</title>
       <pubDate>Sat, 26 Sep 2026 04:24:03 +0000</pubDate>
       <sparkle:version>809</sparkle:version>

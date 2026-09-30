@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.4.1</title>
+      <pubDate>Wed, 30 Sep 2026 11:44:25 +0000</pubDate>
+      <sparkle:version>866</sparkle:version>
+      <sparkle:shortVersionString>3.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Apple on-device is now the default model. Stars, labels and picks save only what you changed, and never while a folder is still loading or files are moving. A save that fails is tried again, then undone on screen and reported. Quitting never loses an edit.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.4.1/PixelfetchStudio-3.4.1.zip" sparkle:edSignature="4l8MDTkgg7tFQZKMeZ0LszAEC1drjMBiKezf5fiNYuf3FtdUWHc+pzMzPEv0gkThyXMCV1eSuNMqHciuuaeqCg==" length="14073158" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.4.0</title>
       <pubDate>Tue, 29 Sep 2026 11:05:10 +0000</pubDate>
       <sparkle:version>850</sparkle:version>

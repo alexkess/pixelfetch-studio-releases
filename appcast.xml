@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.5.0</title>
+      <pubDate>Fri, 09 Oct 2026 11:31:19 +0000</pubDate>
+      <sparkle:version>891</sparkle:version>
+      <sparkle:shortVersionString>3.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Each shoot remembers its own survival bar, grouping, thinning and time gap, and a change you make over several shoots applies to all of them. Nothing changes a shoot you didn't touch. The Lens counts photographs over the whole shoot (a RAW+JPG pair once). Reconnect checks that it's really the same photos, and photos that turn up later come back with their analysis. Place names and the Image panel's map ask once before any location goes to Apple. Photos sent to an AI model carry no metadata. Judge asks for the brief of the shoot it runs on. Opening a folder lands on Organise, and the app reopens on the tab you left. Ollama cloud models are no longer called "on this Mac", and stray exiftool helpers are cleaned up.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.5.0/PixelfetchStudio-3.5.0.zip" sparkle:edSignature="em9qZws19rbxdxSTNL11YyFDfxssCiUikTz+bWfj9TRB6ZAq6azMqwq6ee22v6fGjJXitO1dwjH/9aShWx53Aw==" length="14282768" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.4.1</title>
       <pubDate>Wed, 30 Sep 2026 11:44:25 +0000</pubDate>
       <sparkle:version>866</sparkle:version>

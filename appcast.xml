@@ -6,6 +6,16 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.6.0 beta (build 1042)</title>
+      <pubDate>Wed, 21 Oct 2026 04:59:21 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1042</sparkle:version>
+      <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Beta 3: shoot details (brief, client, subjects, location) now on the Analyse card, with a 'Read the shoot after analysis' checkbox that names the model and cost; Edit details… in the Shoot panel replaces the inline fields; typing in any text field no longer triggers keyboard shortcuts.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.0-b1042/PixelfetchStudio-3.6.0-b1042.zip" sparkle:edSignature="WFvBt5A33peVZ4bjW8xZY5jxsCohfuMSctWXdTyO3S8bTniXwP5FuX6Ja90E9MMVi0aFna7fjC2vBvD3AzZgAg==" length="17157458" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.0 beta (build 1038)</title>
       <pubDate>Tue, 20 Oct 2026 13:19:25 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>

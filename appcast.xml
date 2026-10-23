@@ -6,6 +6,16 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.6.0 beta (build 1046)</title>
+      <pubDate>Fri, 23 Oct 2026 04:53:42 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1046</sparkle:version>
+      <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Beta 5: Develop now lives in the Edit tab with a Lightroom-style filmstrip (D from Cull, ←/→ to move, G back to Cull, multi-select + Sync…); six Pixelfetch looks (Standard, Vivid, Portrait, Landscape, Neutral, Monochrome) that work on every camera; Pixelfetch Standard is the default where no fitted profiles exist.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.0-b1046/PixelfetchStudio-3.6.0-b1046.zip" sparkle:edSignature="6+ZViODhKZR9VZMbR2jgw/xotztEoA/HshZbg9l42Gq9wUuRP0khJNcySpsxa3Lv06tiKU4/Jdi/KzuPWd5MAA==" length="17259767" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.0 beta (build 1043)</title>
       <pubDate>Fri, 23 Oct 2026 02:58:21 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>

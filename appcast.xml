@@ -6,13 +6,33 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.6.0 beta (build 1068)</title>
+      <pubDate>Sat, 24 Oct 2026 09:01:12 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1068</sparkle:version>
+      <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Beta 7: Undo/Redo in Develop (⌘Z, one step per gesture or batch), History and Snapshots that travel with the photo, before/after side by side (Y); edited thumbnails everywhere and instant back-and-forth in the Edit tab; Masking v1 — Subject, Sky, People, Background (on-device) plus linear and radial gradients with local adjustments; full Export (metadata, output sharpening, sizing, naming, watermark, presets, Adobe RGB/HEIC); Auto tone and Auto white balance.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.0-b1068/PixelfetchStudio-3.6.0-b1068.zip" sparkle:edSignature="ljkqfpxBUtOqdSfm4hIBE1QMs2q0IazuJS0RNu8Vl50ZLBJan/4cR/2/jQuUgnRRADxwTSiNF9acguxdwlgDCw==" length="18496246" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.0 beta (build 1057)</title>
       <pubDate>Fri, 23 Oct 2026 14:24:48 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>
       <sparkle:version>1057</sparkle:version>
       <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Beta 6: the rest of Lightroom's panels — Crop <language>en</language> Straighten (R, aspect ratios, auto straighten), Transform <language>en</language> Upright, Tone Curve (parametric + point RGB/R/G/B), Color Mixer (HSL, targeted adjustment) with B<language>en</language>W Mix, Color Grading, Calibration; Presets (create, hover preview, apply to many, import Lightroom .xmp/.lrtemplate presets).]]></description>
+      <description><![CDATA[Beta 6: the rest of Lightroom's panels — Crop <language>en</language>
+    <item>
+      <title>Version 3.6.0 beta (build 1068)</title>
+      <pubDate>Sat, 24 Oct 2026 09:01:12 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1068</sparkle:version>
+      <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Beta 7: Undo/Redo in Develop (⌘Z, one step per gesture or batch), History and Snapshots that travel with the photo, before/after side by side (Y); edited thumbnails everywhere and instant back-and-forth in the Edit tab; Masking v1 — Subject, Sky, People, Background (on-device) plus linear and radial gradients with local adjustments; full Export (metadata, output sharpening, sizing, naming, watermark, presets, Adobe RGB/HEIC); Auto tone and Auto white balance.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.0-b1068/PixelfetchStudio-3.6.0-b1068.zip" sparkle:edSignature="ljkqfpxBUtOqdSfm4hIBE1QMs2q0IazuJS0RNu8Vl50ZLBJan/4cR/2/jQuUgnRRADxwTSiNF9acguxdwlgDCw==" length="18496246" type="application/octet-stream"/>
+    </item> Straighten (R, aspect ratios, auto straighten), Transform <language>en</language> Upright, Tone Curve (parametric + point RGB/R/G/B), Color Mixer (HSL, targeted adjustment) with B<language>en</language>W Mix, Color Grading, Calibration; Presets (create, hover preview, apply to many, import Lightroom .xmp/.lrtemplate presets).]]></description>
       <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.0-b1057/PixelfetchStudio-3.6.0-b1057.zip" sparkle:edSignature="lHO+S1hAUdWFqutVRzOC8GEPMk1oiVdP/Yd6sVYOeVTR3KjZbZt/5jGXnH1gn3WxwhUvn+D2cMTPy84+AEahDg==" length="17739424" type="application/octet-stream"/>
     </item>
     <item>

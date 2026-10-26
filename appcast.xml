@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.6.0</title>
+      <pubDate>Mon, 26 Oct 2026 16:05:23 +0000</pubDate>
+      <sparkle:version>1105</sparkle:version>
+      <sparkle:shortVersionString>3.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pixelfetch Studio 3.6.0 — Develop: a full photo editor in the Edit tab (D from Cull, filmstrip). Every Lightroom global panel (Basic, Tone Curve, Color Mixer/HSL and B&W, Color Grading, Detail, Lens Corrections, Transform/Upright, Effects, Calibration), Crop & Straighten, masks (Subject, Sky, People, Background, gradients, brush, ranges), Remove/Heal/Clone, presets with Lightroom preset import, Ask AI (on-device by default), Auto tone and white balance, Undo/History/Snapshots/Versions, full Export. Import from Lightroom catalogs (copied, never written). JPEG/HEIC/TIFF editing, RAW+JPG pairs as one card, a Collections panel, an opt-in sync folder for profiles and presets, and Pixelfetch looks for every camera.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.0/PixelfetchStudio-3.6.0.zip" sparkle:edSignature="2Ts+qpV7F/8L6C2M92UW7kp49hsv63bkKwsA6js+w680Vx4iY8OubIU4YHG4kPi0sa00bqr8gwP1eX7ZHc1HBQ==" length="19901475" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.0 beta (build 1079)</title>
       <pubDate>Sat, 24 Oct 2026 16:40:45 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>

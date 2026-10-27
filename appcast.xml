@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.6.1</title>
+      <pubDate>Tue, 27 Oct 2026 12:13:59 +0000</pubDate>
+      <sparkle:version>1125</sparkle:version>
+      <sparkle:shortVersionString>3.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pixelfetch Studio 3.6.1: the editor now uses numbers fitted to your Lightroom kit where they exist (sharpening, luminance noise reduction, manual distortion, lens vignette, grain, and the Basic tone and presence sliders), and each panel says where its numbers come from. Sliders your kit showed no measurable change for (color noise reduction, Remove Chromatic Aberration, Defringe, Sharpening Detail and Masking, noise reduction Contrast) keep Studio's starting values and say so. Also: the update feed is repaired, and a legal guard keeps fitted data out of the app.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.1/PixelfetchStudio-3.6.1.zip" sparkle:edSignature="AFgaOtFM5RLFCcXiFeNqAlmcOaC1PMYqH2BuOhgKGS3hdvTcHQABPH547OiKQBBaiQAllnWRzgUu0WUChisiCQ==" length="20129133" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.0</title>
       <pubDate>Mon, 26 Oct 2026 16:05:22 +0000</pubDate>
       <sparkle:version>1105</sparkle:version>

@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.6.2</title>
+      <pubDate>Wed, 28 Oct 2026 03:07:06 +0000</pubDate>
+      <sparkle:version>1131</sparkle:version>
+      <sparkle:shortVersionString>3.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pixelfetch Studio 3.6.2: exports now apply your Develop edits (Cull's Export, Copy Keepers Deliver JPGs, and Export with Edits, which saves your latest change first); Export in the Edit tab exports every photo selected in the filmstrip. New in Develop: Command-A selects the whole filmstrip, a Navigator when zoomed in, an always-visible Sync button, Auto Sync, and Shift-Command-V pastes onto every selected photo.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.2/PixelfetchStudio-3.6.2.zip" sparkle:edSignature="PEioUmjBq64arLkBaLunALAiJGvtq2mfE+sON0EJOxRYKyW2uODnUW0yfMaiEz4aUM5w/bnwPu3QJeCNfgtqBQ==" length="20216775" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.1</title>
       <pubDate>Tue, 27 Oct 2026 12:13:59 +0000</pubDate>
       <sparkle:version>1125</sparkle:version>

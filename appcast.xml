@@ -6,6 +6,15 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.6.3</title>
+      <pubDate>Wed, 28 Oct 2026 05:11:15 +0000</pubDate>
+      <sparkle:version>1133</sparkle:version>
+      <sparkle:shortVersionString>3.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Pixelfetch Studio 3.6.3: Auto Straighten, Auto Upright and AI Auto Crop now work on every selected photo, with Loose, Normal and Tight framing and one undo. Syncing Upright now solves each photo from its own lines, Auto Crop never cuts a head or leaves blank corners, and batch straightening leaves photos with no clear horizon as they are.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.6.3/PixelfetchStudio-3.6.3.zip" sparkle:edSignature="ebXxW2xcrMXfD9VNbuJr/7x6OkZgeWXW37dql4KbY5N7ckTfIy/VXP4Uf70MIAZvi4eUQYA0/MqG700JMRmKBQ==" length="20349068" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.2</title>
       <pubDate>Wed, 28 Oct 2026 03:07:06 +0000</pubDate>
       <sparkle:version>1131</sparkle:version>

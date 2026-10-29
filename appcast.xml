@@ -6,6 +6,16 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.7.0 beta (build 1152)</title>
+      <pubDate>Thu, 29 Oct 2026 22:39:10 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1152</sparkle:version>
+      <sparkle:shortVersionString>3.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[3.7.0 beta 1. Claude Haiku 5.5 is the first Claude and the built-in personas move to it; Sonnet 5.5 and Opus 5.5 added. Gemini Flash prices are dated (they double on 1 Jan 2027); GPT-6 Luna replaces GPT-4o. Vision checks are pinned to fixed revisions, so a macOS update can't shift your scores. New in Settings, Culling: auto-advance after P, X or a star rating. Z in the loupe zooms to the best face.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.7.0-b1152/PixelfetchStudio-3.7.0-b1152.zip" sparkle:edSignature="zPom03r8RKMcfj0Z7xC/8RWV4oUvgNTZ0+ZSiHYZH6QimOxv1sT20Crf/UuFS1CxqXGnTbz7he165194Gf0qBQ==" length="20378253" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.6.3</title>
       <pubDate>Wed, 28 Oct 2026 05:11:15 +0000</pubDate>
       <sparkle:version>1133</sparkle:version>

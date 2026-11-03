@@ -6,6 +6,16 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.8.0 beta (build 1239)</title>
+      <pubDate>Tue, 03 Nov 2026 12:42:24 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1239</sparkle:version>
+      <sparkle:shortVersionString>3.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[3.8.0 beta 1. Camera looks: Develop can start a Nikon RAW from the picture control it was shot with (Portrait, Flat, Vivid and the rest). Face and eye focus plus lens smudge in the analysis. Studio now records where each keep came from (your hand, an accepted suggestion, an import). Find power lines beside Find dust. Develop: Reset and History fixes, spot size, deselect a spot. Stay put after a pick. File, Open Folder (Cmd-O). A backup of the database before every upgrade. About 40 fixes from a full code review and UI test pass. GRDB 7.11.1 and Sparkle 2.10.1.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.8.0-b1239/PixelfetchStudio-3.8.0-b1239.zip" sparkle:edSignature="fi9AydKynveeGh79dJmqv8ABONmCijydp2SFx1LyBtiN/gvVyU4VMarYVJbRpAfxq/lhqGEfy+OBl4A6qqNWDw==" length="20725570" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.7.0 beta (build 1152)</title>
       <pubDate>Thu, 29 Oct 2026 22:39:10 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>

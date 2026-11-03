@@ -6,6 +6,16 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.8.0 beta (build 1263)</title>
+      <pubDate>Tue, 03 Nov 2026 23:25:47 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1263</sparkle:version>
+      <sparkle:shortVersionString>3.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Judge, reworked. Judge from Cull with AI > Judge... (Shift-Cmd-J): pick the photos, The Eye or the whole panel, each photo or best of each burst, and the model with its price, then keep culling while it runs in Activity with Stop. Re-runs now replace a photo's verdict (before, the first score stuck forever). Apple on-device gives a structured, repeatable score. Order by Judge score, The Eye's read and a Top N % rank in the Image panel, failed calls shown as errors. Best of each burst marks the frame The Eye would deliver; AI > Keep the Judge's picks keeps them in one undo, only where the file has no pick yet.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.8.0-b1263/PixelfetchStudio-3.8.0-b1263.zip" sparkle:edSignature="foYS508FqLeR6WR2AMvtwV7kQU31mlZJURgAKY3wfXfEGpfhX9JFymVnU+r0UL7Im2OTHVhRnZIx77DJ89W7CQ==" length="20889081" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.8.0 beta (build 1239)</title>
       <pubDate>Tue, 03 Nov 2026 12:42:24 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>

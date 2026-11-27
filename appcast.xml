@@ -6,6 +6,16 @@
     <description>Pixelfetch Studio updates</description>
     <language>en</language>
     <item>
+      <title>Version 3.9.0 beta (build 1543)</title>
+      <pubDate>Fri, 27 Nov 2026 22:27:34 +0000</pubDate>
+      <sparkle:channel>beta</sparkle:channel>
+      <sparkle:version>1543</sparkle:version>
+      <sparkle:shortVersionString>3.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[3.9.0 beta 1. Organise is one grid now: Rename, Sort into Folders, Move to and New Folder work on the photos you see, with a preview on the cards, and the old file-list tab is gone. On screen, cull is now pick. Export asks when names are already there (Overwrite, Skip, Add Additional Files or Cancel) in Organise and Edit, and exports from Edit onto memory cards and USB sticks now work. Judge: your own judges, The Checklist, new built-in judges and five to unlock, close-ups of small faces, one pick per long burst, panel highlights. Model Bake-off: Compare with my picks, a blind test of each model against your own keeps. Develop: engine version 2 with Blacks and Whites that reach, match the camera look on any RAW of that camera, panels that stay put from photo to photo, Ask AI can crop and straighten. Also new: a client report (PDF), Pick for social, clip transcripts and continuous play, location on the files with a Place filter, My Eye, Ask this folder, review the Cut before export, Camera, Lens and Day filters, a Recent list in the sidebar, an optional performance log. Gemini 2.5 Pro and 2.5 Flash leave the model list: from 1 December Google answers those names with other models. A DNG now keeps its picks inside the DNG: once 3.9 has picked a DNG, do not pick it on an older build.]]></description>
+      <enclosure url="https://github.com/alexkess/pixelfetch-studio-releases/releases/download/v3.9.0-b1543/PixelfetchStudio-3.9.0-b1543.zip" sparkle:edSignature="yXkD2bZA/T5Ny/Ze87C9aeqjKEs7VXGBSh/U99mYpKOOyNrzqqwTwTeJAaBvD5fyUtdcVn5Xowr+30pyQ973AQ==" length="24018260" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 3.8.0 beta (build 1263)</title>
       <pubDate>Tue, 03 Nov 2026 23:25:47 +0000</pubDate>
       <sparkle:channel>beta</sparkle:channel>
